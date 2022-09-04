@@ -24,7 +24,7 @@ curl https://rustwasm.github.io/wasm-pack/installer/init.sh -sSf | sh
 git clone https://github.com/201B153/wasm-rust-webpack-template.git
 ```
 
-#### Then in source folder `./wasm-rust-webpack-template
+#### Then in source folder `./wasm-rust-webpack-template`
 
 ```bash
 npm install
